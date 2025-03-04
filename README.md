@@ -27,8 +27,10 @@ I am a passionate **Software Engineer** with a strong desire to grow and improve
 
 ## 📫 Let's Connect!
 
-[My Linkdin: www.linkedin.com/in/diego-ramón-sanchis]
-[My Github: https://github.com/Diegorra]
+- [LinkedIn](https://www.linkedin.com/in/diego-ramón-sanchis)
+- [GitHub](https://github.com/Diegorra)
+
+Feel free to reach out to me on LinkedIn or explore my projects on GitHub!
 
 
 🚀 Excited to explore cloud technologies and build cutting-edge solutions!
